@@ -1,8 +1,7 @@
 """
 License
-https://www.youtube.com/c/LearningOrbis
-Copyright (c) 2021 Muhammad Ahsan Naeem
-mahsan.naeem@gmail.com
+Copyright (c) 2022 Muhammad Azeem
+azeemaj101.ml
 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
